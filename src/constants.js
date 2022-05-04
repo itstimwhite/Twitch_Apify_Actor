@@ -3,7 +3,7 @@ exports.SELECTORS_XP = {
   CHANNEL_SUBSCRIBER_COUNT_XP: '//*[@id="root"]/div/div[2]/div[1]/main/div[2]/div[3]/div/div/div[1]/div[1]/div[2]/div/div[2]/div/div[2]/div[1]/div/div[2]/div/div/div/div/div[1]/div/div[2]/div/span/div/div/span',
   JOINED_DATE_XP: '//*[@id="right-column"]/yt-formatted-string[2]/span[2]',
   TOTAL_VIEW_COUNT_XP: '//*[@id="right-column"]/yt-formatted-string[3]',
-  CHANNEL_DESCRIPTION_XP: '//*[@id="primary"]//*[@id="description-container"]//*[@id="description"]',
+  CHANNEL_DESCRIPTION_XP: '//*[@id="root"]/div/div[2]/div[1]/main/div[2]/div[3]/div/div/div[1]/div[1]/div[2]/div/div[2]/div/div[2]/div[1]/div/div[2]/div/div/div/div/div[1]/p',
   CHANNEL_LOCATION_XP: '//*[@id="primary"]//*[@id="details-container"]/table/tbody/tr[2]/td[2]/yt-formatted-string',
   CHANNEL_PROFILE_IMAGE_XP: '//*[@id="root"]/div/div[2]/div[1]/main/div[2]/div[3]/div/div/div[1]/div[1]/div[2]/div/div[1]/div/div/div/div[1]/div/div/div/a/div[1]/figure/img',
   CHANNEL_VERIFIED_XP: '//*[@id="root"]/div/div[2]/div[1]/main/div[2]/div[3]/div/div/div[1]/div[1]/div[2]/div/div[1]/div/div/div/div[2]/div[1]/div[1]/div/figure/svg',
