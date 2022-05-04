@@ -30,3 +30,5 @@ apify_storage
 
 ./node_modules
 ./apify_storage
+
+apify_storage

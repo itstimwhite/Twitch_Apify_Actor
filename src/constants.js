@@ -1,5 +1,5 @@
 exports.SELECTORS_XP = {
-  CHANNEL_NAME_XP: '//*[@id="root"]/div/div[2]/div[1]/main/div[2]/div[3]/div/div/div[1]/div[1]/div[2]/div/div[1]/div/div/div/div[2]/div[1]/div[1]/a/h1',
+  CHANNEL_NAME_XP: "/html/body/div[1]/div/div[2]/div[1]/main/div[2]/div[3]/div/div/div[1]/div[1]/div[2]/div/div[1]/div/div/div/div[2]/div[1]/div[1]/a/h1",
   CHANNEL_SUBSCRIBER_COUNT_XP: '//*[@id="root"]/div/div[2]/div[1]/main/div[2]/div[3]/div/div/div[1]/div[1]/div[2]/div/div[2]/div/div[2]/div[1]/div/div[2]/div/div/div/div/div[1]/div/div[2]/div/span/div/div/span',
   JOINED_DATE_XP: '//*[@id="right-column"]/yt-formatted-string[2]/span[2]',
   TOTAL_VIEW_COUNT_XP: '//*[@id="right-column"]/yt-formatted-string[3]',
