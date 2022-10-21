@@ -8,8 +8,8 @@
       "title": "Direct URLs",
       "type": "array",
       "description": "Provide some direct Twitch channel urls.",
-      "prefill": [{ "url": "https://www.twitch.tv/botezlive" }],
-      "default": [],
+      "prefill": [{ "url": "https://www.twitch.tv/katerino" }, { "url": "https://www.twitch.tv/monstercat" }, { "url": "https://www.twitch.tv/riotgames" }],
+      "default": [{ "url": "https://www.twitch.tv/katerino" }],
       "editor": "requestListSources",
       "sectionCaption": "Direct URLs"
     },
